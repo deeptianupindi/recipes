@@ -1,4 +1,4 @@
-## Simple recipes
+## Simplest Recipes
 
 
 ```
