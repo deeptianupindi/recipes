@@ -1,6 +1,7 @@
-## Fast, simple, tasty recipes
+## Simple, tasty & quick recipes
 
 
-```markdown
+```
+#How to make Spinach Dal with Red Lentils
 
 ```
