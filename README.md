@@ -1,1 +1,1 @@
-# Recipes
+# Simpler Recipes
