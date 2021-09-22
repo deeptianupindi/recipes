@@ -2,16 +2,18 @@
 
 
 ### Things you need
- `Most basic ingredients`
+
+1 measure = 1 cup size of your choice
+ #### Most basic ingredients
  ```
-  * Red lentils -  1/2 :cup: ( Masoor Dal / Rote Linsen)
-  * Spinach - 1/2 cup
-  * Onion - 1/2 small
+  * Red lentils -  1/2 measure ( Masoor Dal / Rote Linsen)
+  * Spinach - 1/2 measure
+  * Onion - 1/2
   * Salt 
   * Paprika powder
   * Oil
  ```
- `Optional ingredients that can make it even better`
+ #### Other ingredients can be added for improvement
  ```
   * Turmeric powder
   * Cumin seeds
