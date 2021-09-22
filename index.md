@@ -3,17 +3,18 @@
 
 ### Things you need
 
-1 measure = 1 cup size of your choice
- #### Most basic ingredients
+1 measure = 1 cup that you use on a regular basis
+
+ #### Basic ingredients
  ```
   * Red lentils -  1/2 measure ( Masoor Dal / Rote Linsen)
   * Spinach - 1/2 measure
   * Onion - 1/2
   * Salt 
-  * Paprika powder
+  * Hot chilli powder
   * Oil
  ```
- #### Other ingredients can be added for improvement
+ #### Extra ingredients that can be added
  ```
   * Turmeric powder
   * Cumin seeds
@@ -21,10 +22,12 @@
   * Indian Garam Masala powder
  ```
 
-### What to do first
+### Prep before cooking
+```
   1. Wash & cut spinach
   2. Wash lentils and drain all water
   3. Finely chop the onion
+```
 
 ### How to cook it
 ```
