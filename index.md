@@ -3,18 +3,21 @@
 
 ### Things you need
  `Most basic ingredients`
-  * Red lentils -  1/2 cup ( Masoor Dal / Rote Linsen)
+ ```
+  * Red lentils -  1/2 :cup: ( Masoor Dal / Rote Linsen)
   * Spinach - 1/2 cup
   * Onion - 1/2 small
   * Salt 
   * Paprika powder
   * Oil
-  
+ ```
  `Optional ingredients that can make it even better`
+ ```
   * Turmeric powder
   * Cumin seeds
   * Indian red chilli powder
   * Indian Garam Masala powder
+ ```
 
 ### What to do first
   1. Wash & cut spinach
