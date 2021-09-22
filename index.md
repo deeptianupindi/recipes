@@ -3,11 +3,13 @@
 
  ### Things to have
 
-  _1 measuring cup (a cup that you use on a regular basis)_
+ ```
+  1 measuring cup (a cup that you use on a regular basis)
  
-  _Pressure cooker (optional)_
+  Pressure cooker (optional)
  
-  _Medium sized pot_
+  Medium sized pot
+  ```
  
 
  ### Basic ingredients
